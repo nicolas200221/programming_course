@@ -1,0 +1,6 @@
+{
+    "name": "Arch C++ Dev",
+    "image": "arch-cpp",
+    "workspaceFolder": "/app",
+    "runArgs": ["--rm", "--name", "arch-cpp", "-v", "arch-cpp:/app"]
+}
